@@ -1,0 +1,6 @@
+Các bước chạy chương trình (sử dụng VSCode để thực thi) :
+- B1: Mở terminal chọn New Terminal
+- B2: Nhập câu lệnh npm init -y để khởi tạo project
+- B3: Nhập câu lệnh npm install express mongoose cors body-parser để tải các gói cần thiết
+- B4: Nhập câu lệnh node backend/app.js để chạy chương trình.
+- B5: Vào folder, chọn folder student_management rồi vào folder frontend rồi sau đó click đúp vào file index.html để thao tác chương trình.	
